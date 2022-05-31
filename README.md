@@ -12,6 +12,7 @@
      - ATM machine allowing user to deposit & withdraw custom amounts
      - Managed state to track the user's account balance
      - Functionality that prevents overdraft fees and alerts the user of insufficient funds.
+     - Simple user-friendly interface for managing transactions
    
 ## Instructions For Use:
 > You can access my project via [GitHub Pages](https://ryanblount-2.github.io/atm-project/).
